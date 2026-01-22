@@ -1,0 +1,7 @@
+{
+  "name": "Daily Khata",
+  "description": "A comprehensive daily expense and income tracker with smart financial insights and visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
